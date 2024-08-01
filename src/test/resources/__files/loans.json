@@ -1,0 +1,933 @@
+{
+  "metadata": {
+    "productIds": [
+      "7298715623",
+      "5190129012",
+      "4587458745",
+      "5100008470",
+      "5100009010"
+    ],
+    "grossCarryingAmountTotal": {
+      "amount": 600000000.00,
+      "currency": "EUR",
+      "formatted": "600.000.000,00 EUR"
+    },
+    "eligabilityTotal": {
+      "amount": 544740000.00,
+      "currency": "EUR",
+      "formatted": "544.740.000,00 EUR"
+    },
+    "alignmentTotal": {
+      "amount": 108564000.00,
+      "currency": "EUR",
+      "formatted": "108.564.000,00 EUR"
+    }
+  },
+  "productListWithAlignment": [
+    {
+      "product": {
+        "contractId": 7298715623,
+        "borrower": {
+          "id": 17300982,
+          "name": "Doe Company",
+          "lei": "529900NNUPAGGOMPXZ31"
+        },
+        "useOfProceeds": [],
+        "grossCarryingAmount": {
+          "amount": 120000000.00,
+          "currency": "EUR",
+          "formatted": "120.000.000,00 EUR"
+        }
+      },
+      "alignmentKPIList": [
+        {
+          "useOfProceeds": null,
+          "dataPoints": [
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 99600000.00,
+                "currency": "EUR",
+                "formatted": "99.600.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 10200000.00,
+                "currency": "EUR",
+                "formatted": "10.200.000,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 8400000.00,
+                "currency": "EUR",
+                "formatted": "8.400.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 3600000.00,
+                "currency": "EUR",
+                "formatted": "3.600.000,00 EUR"
+              }
+            }
+          ],
+          "eligibilityValue": {
+            "amount": 108000000.00,
+            "currency": "EUR",
+            "formatted": "108.000.000,00 EUR"
+          },
+          "alignmentValue": {
+            "amount": 13800000.00,
+            "currency": "EUR",
+            "formatted": "13.800.000,00 EUR"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "contractId": 5190129012,
+        "borrower": {
+          "id": 17300982,
+          "name": "Doe Company",
+          "lei": "529900NNUPAGGOMPXZ31"
+        },
+        "useOfProceeds": [
+          "_3_3_Manufacture_of_low_carbon_technologies_for_transport",
+          "_3_6_Manufacture_of_other_low_carbon_technologies"
+        ],
+        "grossCarryingAmount": {
+          "amount": 80000000.00,
+          "currency": "EUR",
+          "formatted": "80.000.000,00 EUR"
+        }
+      },
+      "alignmentKPIList": [
+        {
+          "useOfProceeds": "_3_3_Manufacture_of_low_carbon_technologies_for_transport",
+          "dataPoints": [
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 57600000.00,
+                "currency": "EUR",
+                "formatted": "57.600.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 6120000.00,
+                "currency": "EUR",
+                "formatted": "6.120.000,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            }
+          ],
+          "eligibilityValue": {
+            "amount": 57600000.00,
+            "currency": "EUR",
+            "formatted": "57.600.000,00 EUR"
+          },
+          "alignmentValue": {
+            "amount": 6120000.00,
+            "currency": "EUR",
+            "formatted": "6.120.000,00 EUR"
+          }
+        },
+        {
+          "useOfProceeds": "_3_6_Manufacture_of_other_low_carbon_technologies",
+          "dataPoints": [
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 240000.00,
+                "currency": "EUR",
+                "formatted": "240.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 144000.00,
+                "currency": "EUR",
+                "formatted": "144.000,00 EUR"
+              }
+            }
+          ],
+          "eligibilityValue": {
+            "amount": 240000.00,
+            "currency": "EUR",
+            "formatted": "240.000,00 EUR"
+          },
+          "alignmentValue": {
+            "amount": 144000.00,
+            "currency": "EUR",
+            "formatted": "144.000,00 EUR"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "contractId": 4587458745,
+        "borrower": {
+          "id": 17300982,
+          "name": "Doe Company",
+          "lei": "529900NNUPAGGOMPXZ31"
+        },
+        "useOfProceeds": [
+          "_3_3_Manufacture_of_low_carbon_technologies_for_transport"
+        ],
+        "grossCarryingAmount": {
+          "amount": 100000000.00,
+          "currency": "EUR",
+          "formatted": "100.000.000,00 EUR"
+        }
+      },
+      "alignmentKPIList": [
+        {
+          "useOfProceeds": "_3_3_Manufacture_of_low_carbon_technologies_for_transport",
+          "dataPoints": [
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 80000000.00,
+                "currency": "EUR",
+                "formatted": "80.000.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 8500000.00,
+                "currency": "EUR",
+                "formatted": "8.500.000,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            }
+          ],
+          "eligibilityValue": {
+            "amount": 80000000.00,
+            "currency": "EUR",
+            "formatted": "80.000.000,00 EUR"
+          },
+          "alignmentValue": {
+            "amount": 8500000.00,
+            "currency": "EUR",
+            "formatted": "8.500.000,00 EUR"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "contractId": 5100008470,
+        "borrower": {
+          "id": 17300002,
+          "name": "John Company",
+          "lei": "YEH5ZCD6E441RHVHD759"
+        },
+        "useOfProceeds": [],
+        "grossCarryingAmount": {
+          "amount": 100000000.00,
+          "currency": "EUR",
+          "formatted": "100.000.000,00 EUR"
+        }
+      },
+      "alignmentKPIList": [
+        {
+          "useOfProceeds": null,
+          "dataPoints": [
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 30000000.00,
+                "currency": "EUR",
+                "formatted": "30.000.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 52900000.00,
+                "currency": "EUR",
+                "formatted": "52.900.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 10000000.00,
+                "currency": "EUR",
+                "formatted": "10.000.000,00 EUR"
+              }
+            }
+          ],
+          "eligibilityValue": {
+            "amount": 82900000.00,
+            "currency": "EUR",
+            "formatted": "82.900.000,00 EUR"
+          },
+          "alignmentValue": {
+            "amount": 10000000.00,
+            "currency": "EUR",
+            "formatted": "10.000.000,00 EUR"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "contractId": 5100009010,
+        "borrower": {
+          "id": 17300123,
+          "name": "John Company",
+          "lei": "529900R27DL06UVNT076"
+        },
+        "useOfProceeds": [],
+        "grossCarryingAmount": {
+          "amount": 200000000.00,
+          "currency": "EUR",
+          "formatted": "200.000.000,00 EUR"
+        }
+      },
+      "alignmentKPIList": [
+        {
+          "useOfProceeds": null,
+          "dataPoints": [
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 138000000.00,
+                "currency": "EUR",
+                "formatted": "138.000.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 40000000.00,
+                "currency": "EUR",
+                "formatted": "40.000.000,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCM",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": null,
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 78000000.00,
+                "currency": "EUR",
+                "formatted": "78.000.000,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Transitional",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "Enabling",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              }
+            },
+            {
+              "environmentalObjective": "CCA",
+              "fulfillmentType": "OwnPerformance",
+              "isSpecializedLending": false,
+              "eligableValue": {
+                "amount": 0.00,
+                "currency": "EUR",
+                "formatted": "0,00 EUR"
+              },
+              "alignedValue": {
+                "amount": 30000000.00,
+                "currency": "EUR",
+                "formatted": "30.000.000,00 EUR"
+              }
+            }
+          ],
+          "eligibilityValue": {
+            "amount": 216000000.00,
+            "currency": "EUR",
+            "formatted": "216.000.000,00 EUR"
+          },
+          "alignmentValue": {
+            "amount": 70000000.00,
+            "currency": "EUR",
+            "formatted": "70.000.000,00 EUR"
+          }
+        }
+      ]
+    }
+  ]
+}
